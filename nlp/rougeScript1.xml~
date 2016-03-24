@@ -1,0 +1,19 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="063">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems2/d063</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d063
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d063j_reference3.txt.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d063jc_200.htm</M>
+<M ID="2">d063je_200.htm</M>
+</MODELS>
+</EVAL>
+
+</ROUGE_EVAL>

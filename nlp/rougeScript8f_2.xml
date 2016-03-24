@@ -1,0 +1,1015 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="067">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d067</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d067
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d067f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d067fi_200.htm</M>
+<M ID="2">d067fa_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="108">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d108</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d108
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="2">d108g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d108gi_200.htm</M>
+<M ID="2">d108gh_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="074">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d074</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d074
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="3">d074b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d074bd_200.htm</M>
+<M ID="2">d074be_200.htm</M>
+<M ID="3">d074ba_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="087">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d087</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d087
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="4">d087d_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d087df_200.htm</M>
+<M ID="2">d087db_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="078">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d078</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d078
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="5">d078b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d078bj_200.htm</M>
+<M ID="2">d078bh_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="081">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d081</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d081
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="6">d081a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d081ag_200.htm</M>
+<M ID="2">d081ac_200.htm</M>
+<M ID="3">d081ad_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="096">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d096</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d096
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="7">d096c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d096cg_200.htm</M>
+<M ID="2">d096cj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="107">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d107</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d107
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="8">d107g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d107gh_200.htm</M>
+<M ID="2">d107ge_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="066">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d066</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d066
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="9">d066j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d066jc_200.htm</M>
+<M ID="2">d066ji_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="092">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d092</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d092
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="10">d092c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d092ca_200.htm</M>
+<M ID="2">d092cf_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="095">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d095</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d095
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="11">d095c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d095ch_200.htm</M>
+<M ID="2">d095ce_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="063">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d063</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d063
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="12">d063j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d063jc_200.htm</M>
+<M ID="2">d063je_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="077">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d077</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d077
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="13">d077b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d077bh_200.htm</M>
+<M ID="2">d077bg_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="085">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d085</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d085
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="14">d085d_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d085dh_200.htm</M>
+<M ID="2">d085da_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="115">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d115</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d115
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="15">d115i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d115ij_200.htm</M>
+<M ID="2">d115ib_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="064">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d064</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d064
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="16">d064j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d064je_200.htm</M>
+<M ID="2">d064jb_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="111">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d111</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d111
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="17">d111h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d111hc_200.htm</M>
+<M ID="2">d111hf_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="065">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d065</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d065
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="18">d065j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d065jh_200.htm</M>
+<M ID="2">d065jf_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="105">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d105</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d105
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="19">d105g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d105gi_200.htm</M>
+<M ID="2">d105gc_200.htm</M>
+<M ID="3">d105gd_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="110">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d110</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d110
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="20">d110h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d110hb_200.htm</M>
+<M ID="2">d110hc_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="093">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d093</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d093
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="21">d093c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d093cd_200.htm</M>
+<M ID="2">d093cf_200.htm</M>
+<M ID="3">d093ch_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="117">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d117</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d117
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="22">d117i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d117ig_200.htm</M>
+<M ID="2">d117ic_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="094">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d094</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d094
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="23">d094c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d094cj_200.htm</M>
+<M ID="2">d094ce_200.htm</M>
+<M ID="3">d094cd_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="118">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d118</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d118
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="24">d118i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d118ie_200.htm</M>
+<M ID="2">d118if_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="119">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d119</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d119
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="25">d119i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d119if_200.htm</M>
+<M ID="2">d119ih_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="113">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d113</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d113
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="26">d113h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d113hi_200.htm</M>
+<M ID="2">d113ha_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="079">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d079</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d079
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="27">d079a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d079ai_200.htm</M>
+<M ID="2">d079ab_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="071">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d071</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d071
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="28">d071f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d071fd_200.htm</M>
+<M ID="2">d071fb_200.htm</M>
+<M ID="3">d071fa_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="100">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d100</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d100
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="29">d100e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d100eh_200.htm</M>
+<M ID="2">d100ef_200.htm</M>
+<M ID="3">d100ed_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="090">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d090</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d090
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="30">d090d_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d090di_200.htm</M>
+<M ID="2">d090dj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="099">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d099</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d099
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="31">d099e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d099ec_200.htm</M>
+<M ID="2">d099eb_200.htm</M>
+<M ID="3">d099ed_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="103">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d103</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d103
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="32">d103g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d103ge_200.htm</M>
+<M ID="2">d103ga_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="098">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d098</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d098
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="33">d098e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d098ea_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="106">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d106</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d106
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="34">d106g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d106gd_200.htm</M>
+<M ID="2">d106ga_200.htm</M>
+<M ID="3">d106gf_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="073">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d073</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d073
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="35">d073b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d073bc_200.htm</M>
+<M ID="2">d073bj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="072">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d072</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d072
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="36">d072f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d072fi_200.htm</M>
+<M ID="2">d072fj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="062">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d062</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d062
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="37">d062j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d062ja_200.htm</M>
+<M ID="2">d062jg_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="104">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d104</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d104
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="38">d104g_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d104gc_200.htm</M>
+<M ID="2">d104ga_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="069">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d069</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d069
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="39">d069f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d069fb_200.htm</M>
+<M ID="2">d069fc_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="070">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d070</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d070
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="40">d070f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d070fg_200.htm</M>
+<M ID="2">d070fj_200.htm</M>
+<M ID="3">d070fd_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="091">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d091</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d091
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="41">d091c_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d091cf_200.htm</M>
+<M ID="2">d091cj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="089">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d089</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d089
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="42">d089d_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d089dg_200.htm</M>
+<M ID="2">d089di_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="109">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d109</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d109
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="43">d109h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d109hb_200.htm</M>
+<M ID="2">d109hj_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="076">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d076</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d076
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="44">d076b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d076be_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="075">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d075</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d075
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="45">d075b_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d075bg_200.htm</M>
+<M ID="2">d075bd_200.htm</M>
+<M ID="3">d075be_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="068">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d068</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d068
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="46">d068f_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d068fa_200.htm</M>
+<M ID="2">d068fe_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="116">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d116</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d116
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="47">d116i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d116ih_200.htm</M>
+<M ID="2">d116ib_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="101">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d101</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d101
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="48">d101e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d101eg_200.htm</M>
+<M ID="2">d101ef_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="086">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d086</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d086
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="49">d086d_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d086da_200.htm</M>
+<M ID="2">d086db_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="114">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d114</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d114
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="50">d114h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d114hi_200.htm</M>
+<M ID="2">d114hf_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="061">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d061</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d061
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="51">d061j_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d061ji_200.htm</M>
+<M ID="2">d061jb_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="112">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d112</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d112
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="52">d112h_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d112hg_200.htm</M>
+<M ID="2">d112he_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="097">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d097</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d097
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="53">d097e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d097ea_200.htm</M>
+<M ID="2">d097ej_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="083">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d083</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d083
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="54">d083a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d083ag_200.htm</M>
+<M ID="2">d083ab_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="102">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d102</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d102
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="55">d102e_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d102ef_200.htm</M>
+<M ID="2">d102ei_200.htm</M>
+<M ID="3">d102ed_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="082">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d082</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d082
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="56">d082a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d082ac_200.htm</M>
+<M ID="2">d082ah_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="080">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d080</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d080
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="57">d080a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d080ae_200.htm</M>
+<M ID="2">d080ai_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="120">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d120</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d120
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="58">d120i_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d120ie_200.htm</M>
+<M ID="2">d120ij_200.htm</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="084">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/systems8f_2/d084</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp/models/d084
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="59">d084a_reference.htm</P>
+</PEERS>
+<MODELS>
+<M ID="1">d084ah_200.htm</M>
+<M ID="2">d084aj_200.htm</M>
+</MODELS>
+</EVAL>
+
+</ROUGE_EVAL>

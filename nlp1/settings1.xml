@@ -1,0 +1,602 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="61">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30003t		
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30003t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30003.M.100.T.B.html</M>
+<M ID="B">D30003.M.100.T.C.html</M>
+<M ID="C">D30003.M.100.T.D.html</M>
+<M ID="D">D30003.M.100.T.E.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="62">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30005t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30005t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="2">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30005.M.100.T.G.html</M>
+<M ID="B">D30005.M.100.T.H.html</M>
+<M ID="C">D30005.M.100.T.I.html</M>
+<M ID="D">D30005.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="63">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30010t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30010t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="3">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30010.M.100.T.F.html</M>
+<M ID="B">D30010.M.100.T.G.html</M>
+<M ID="C">D30010.M.100.T.H.html</M>
+<M ID="D">D30010.M.100.T.I.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="64">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30012t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30012t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="4">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30012.M.100.T.A.html</M>
+<M ID="B">D30012.M.100.T.B.html</M>
+<M ID="C">D30012.M.100.T.C.html</M>
+<M ID="D">D30012.M.100.T.D.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="65">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30016t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30016t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="5">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30016.M.100.T.A.html</M>
+<M ID="B">D30016.M.100.T.B.html</M>
+<M ID="C">D30016.M.100.T.C.html</M>
+<M ID="D">D30016.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="66">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30020t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30020t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="6">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30020.M.100.T.E.html</M>
+<M ID="B">D30020.M.100.T.F.html</M>
+<M ID="C">D30020.M.100.T.G.html</M>
+<M ID="D">D30020.M.100.T.H.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="67">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30025t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30025t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="7">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30025.M.100.T.D.html</M>
+<M ID="B">D30025.M.100.T.E.html</M>
+<M ID="C">D30025.M.100.T.F.html</M>
+<M ID="D">D30025.M.100.T.G.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="68">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30028t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30028t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="8">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30028.M.100.T.C.html</M>
+<M ID="B">D30028.M.100.T.D.html</M>
+<M ID="C">D30028.M.100.T.E.html</M>
+<M ID="D">D30028.M.100.T.F.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="69">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30034t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30034t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="9">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30034.M.100.T.A.html</M>
+<M ID="B">D30034.M.100.T.B.html</M>
+<M ID="C">D30034.M.100.T.I.html</M>
+<M ID="D">D30034.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="70">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30040t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30040t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="10">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30040.M.100.T.B.html</M>
+<M ID="B">D30040.M.100.T.C.html</M>
+<M ID="C">D30040.M.100.T.D.html</M>
+<M ID="D">D30040.M.100.T.E.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="71">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30042t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30042t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="11">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30042.M.100.T.A.html</M>
+<M ID="B">D30042.M.100.T.B.html</M>
+<M ID="C">D30042.M.100.T.C.html</M>
+<M ID="D">D30042.M.100.T.D.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="72">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30044t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30044t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="12">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30044.M.100.T.A.html</M>
+<M ID="B">D30044.M.100.T.H.html</M>
+<M ID="C">D30044.M.100.T.I.html</M>
+<M ID="D">D30044.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="73">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30048t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30048t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="13">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30048.M.100.T.G.html</M>
+<M ID="B">D30048.M.100.T.H.html</M>
+<M ID="C">D30048.M.100.T.I.html</M>
+<M ID="D">D30048.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="74">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30050t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30050t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="14">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30050.M.100.T.A.html</M>
+<M ID="B">D30050.M.100.T.B.html</M>
+<M ID="C">D30050.M.100.T.C.html</M>
+<M ID="D">D30050.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="75">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30051t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30051t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="15">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30051.M.100.T.F.html</M>
+<M ID="B">D30051.M.100.T.G.html</M>
+<M ID="C">D30051.M.100.T.H.html</M>
+<M ID="D">D30051.M.100.T.I.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="76">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d30056t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d30056t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="16">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D30056.M.100.T.E.html</M>
+<M ID="B">D30056.M.100.T.F.html</M>
+<M ID="C">D30056.M.100.T.G.html</M>
+<M ID="D">D30056.M.100.T.H.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="77">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31001t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31001t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="17">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31001.M.100.T.D.html</M>
+<M ID="B">D31001.M.100.T.E.html</M>
+<M ID="C">D31001.M.100.T.F.html</M>
+<M ID="D">D31001.M.100.T.G.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="78">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31002t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31002t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="18">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31002.M.100.T.A.html</M>
+<M ID="B">D31002.M.100.T.B.html</M>
+<M ID="C">D31002.M.100.T.I.html</M>
+<M ID="D">D31002.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="79">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31009t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31009t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="19">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31009.M.100.T.A.html</M>
+<M ID="B">D31009.M.100.T.H.html</M>
+<M ID="C">D31009.M.100.T.I.html</M>
+<M ID="D">D31009.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="80">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31010t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31010t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="20">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31010.M.100.T.C.html</M>
+<M ID="B">D31010.M.100.T.D.html</M>
+<M ID="C">D31010.M.100.T.E.html</M>
+<M ID="D">D31010.M.100.T.F.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="81">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31011t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31011t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="21">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31011.M.100.T.G.html</M>
+<M ID="B">D31011.M.100.T.H.html</M>
+<M ID="C">D31011.M.100.T.I.html</M>
+<M ID="D">D31011.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="82">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31013t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31013t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="22">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31013.M.100.T.B.html</M>
+<M ID="B">D31013.M.100.T.C.html</M>
+<M ID="C">D31013.M.100.T.D.html</M>
+<M ID="D">D31013.M.100.T.E.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="83">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31022t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31022t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="23">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31022.M.100.T.F.html</M>
+<M ID="B">D31022.M.100.T.G.html</M>
+<M ID="C">D31022.M.100.T.H.html</M>
+<M ID="D">D31022.M.100.T.I.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="84">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31027t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31027t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="24">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31027.M.100.T.A.html</M>
+<M ID="B">D31027.M.100.T.B.html</M>
+<M ID="C">D31027.M.100.T.C.html</M>
+<M ID="D">D31027.M.100.T.D.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="85">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31028t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31028t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="25">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31028.M.100.T.A.html</M>
+<M ID="B">D31028.M.100.T.B.html</M>
+<M ID="C">D31028.M.100.T.C.html</M>
+<M ID="D">D31028.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="86">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31031t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31031t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="26">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31031.M.100.T.E.html</M>
+<M ID="B">D31031.M.100.T.F.html</M>
+<M ID="C">D31031.M.100.T.G.html</M>
+<M ID="D">D31031.M.100.T.H.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="87">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31033t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31033t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="27">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31033.M.100.T.D.html</M>
+<M ID="B">D31033.M.100.T.E.html</M>
+<M ID="C">D31033.M.100.T.F.html</M>
+<M ID="D">D31033.M.100.T.G.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="88">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31038t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31038t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="28">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31038.M.100.T.A.html</M>
+<M ID="B">D31038.M.100.T.B.html</M>
+<M ID="C">D31038.M.100.T.I.html</M>
+<M ID="D">D31038.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="89">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31041t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31041t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="29">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31041.M.100.T.A.html</M>
+<M ID="B">D31041.M.100.T.H.html</M>
+<M ID="C">D31041.M.100.T.I.html</M>
+<M ID="D">D31041.M.100.T.J.html</M>
+</MODELS>
+</EVAL>
+
+<EVAL ID="90">
+<PEER-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/Sum_html10spec/d31050t
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/simran/Desktop/project/nlp project/nlp1/ref_Sum_html/d31050t
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="30">summary.htm</P>
+</PEERS>
+<MODELS>
+<M ID="A">D31050.M.100.T.C.html</M>
+<M ID="B">D31050.M.100.T.D.html</M>
+<M ID="C">D31050.M.100.T.E.html</M>
+<M ID="D">D31050.M.100.T.F.html</M>
+</MODELS>
+</EVAL>
+
+</ROUGE_EVAL>

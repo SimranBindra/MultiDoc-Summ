@@ -1,0 +1,5 @@
+perl ROUGE-1.5.5.pl -e data -f B -a -x -n 2 -s -m -2 -4 -u ../nlp/rougeScript8.xml >> ../rouge2csv/results8.txt
+
+
+perl rouge2csv.pl results9.txt RESULTS9
+
